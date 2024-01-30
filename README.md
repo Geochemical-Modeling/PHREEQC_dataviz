@@ -8,7 +8,7 @@ job001_Beerling_original.out to job126_Beerling_original.out in [data](data).
 ## Single Job Visualization
 The [instruction](documents/20231113_Library_of_possible_graphs.pdf) and the accompanying data is under [documents](documents).  
 
-**note**: the "time" column in the output is in second, it needs to be converted to year first.  
+**note**: the "time" column in the output is in second, it needs to be converted to years or days.     
 
 
 
