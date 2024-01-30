@@ -12,5 +12,5 @@ The "time" column in the output is in second, it needs to be converted to years 
 
 **note**: for the flood graph shown in the last page, one possible solution is that collecting the data (values) by depths and years as a matrix, then polting this matrix as an image.        
 
-**Matplotlib Style**: [SciencePlots](https://github.com/garrettj403/SciencePlots) provides Matplotlib styles for scientific figures. It is useful to produce the publication-readay graphs. It may be used as an addon.   
+**Matplotlib Style**: [SciencePlots](https://github.com/garrettj403/SciencePlots) provides Matplotlib styles for scientific figures. It is useful to produce the publication-ready graphs. It may be used as an addon.   
 
